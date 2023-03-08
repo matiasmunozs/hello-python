@@ -1,0 +1,1 @@
+#la convencion en python es que las variables se escriban en miniscula y con _, 
