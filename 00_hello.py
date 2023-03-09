@@ -16,4 +16,5 @@ print(type(True)) # tipo de dato booleano
 print(type(5+1j)) # tipo de dato complejo
 
 
-
+print(type(print("test")))
+#esto da NoneType
